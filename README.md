@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola, soy KEVIN MOJICA! 👋
 
-<!--
-**Alexxoelgrande/Alexxoelgrande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Redes Informaticas** en la facultad de Ingeniería de Sistemas Computacionales en la **Universidad Tecnológica de Panamá**. Me apasiona el desarrollo de software, la creación de soluciones lógicas y la tecnología.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+- 🌱 Actualmente estoy fortaleciendo mis habilidades en desarrollo web, programación y sistemas colaborativos.
+- 💻 Me interesa el desarrollo de herramientas de software, automatización y arquitecturas eficientes.
+- 🛠️ Busco constantemente aprender nuevas tecnologías para aportar valor en proyectos innovadores.
+
+### 🛠️ Tecnologías y Herramientas
+* **Lenguajes:** Python, C, JavaScript, Node.js
+* **Control de Versiones:** Git, GitHub
+* **Entornos / Herramientas:** Visual Studio Code, Termux, Linux / Windows
+
+---
+
+### 📫 ¿Cómo contactarme?
+* **Correo institucional / personal:** kevin.mojica2@utp.ac.pa
+
+---
